@@ -1,0 +1,236 @@
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Crest y  ****
+
+Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
+
+0.0-50.0%, p values:
+
+Cluster p value = 0.0285
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Hip y  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Knee y  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Ankle y  ****
+
+Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
+
+58.33-100.0%, p values:
+
+Cluster p value = 0.0277
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Metatarsal y  ****
+
+Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
+
+0.0-25.0%, p values:
+
+Cluster p value = 0.0289
+
+75.0-100.0%, p values:
+
+Cluster p value = 0.0289
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for ToeTip y  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Ankle Angle  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Knee Angle  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Hip Angle  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Metatarsal Velocity  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Metatarsal Acceleration  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Crest y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Hip y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Knee y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Ankle y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Metatarsal y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for ToeTip y  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Ankle Angle  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Knee Angle  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Hip Angle  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Metatarsal Velocity  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Metatarsal Acceleration  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
