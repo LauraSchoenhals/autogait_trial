@@ -15,7 +15,7 @@ def phase_to_line(phase_df):
 
 
 #read phase file
-phase_dir = "autogait_trial/WT_levelwalk_phase"
+phase_dir = "autogait_trial/V3Off_levelwalk_phase"
 phase_files = sorted(os.listdir(phase_dir))
 
 rows_list = []
@@ -33,6 +33,7 @@ for filename in phase_files:
 # Convert the list of Series into a DataFrame
 flattened_df = pd.DataFrame(rows_list)
 
-save_name = "flattened_phase_files.xlsx"
+group = os.path.split(phase_dir)[-1].split('_')[0]
+save_name = f"{group}_flattened_phase_files.xlsx"
 save_path = os.path.join(os.path.split(phase_dir)[0], save_name)
 flattened_df.to_excel(save_path, header = False, index = True)
