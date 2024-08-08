@@ -1,0 +1,140 @@
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Crest x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Hip x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Knee x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Ankle x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Metatarsal x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for ToeTip x  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Cluster-extent permutation test for Ankle Angle  ****
+
+Contrast: WT & V3Off - No significant clusters!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Crest x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Hip x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Knee x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Ankle x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Metatarsal x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for ToeTip x  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of non-significant ANOVA for Ankle Angle  ****
+
+Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+
+**************************************************************************
+
