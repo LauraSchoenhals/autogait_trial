@@ -22,7 +22,8 @@ def save_file(file, directory, filtered):
     filtered.to_csv(f'{savename}.csv')
 
 def main():
-    directory = 'mouse-V3-analysis/data/kinematics-modeling-v1/WT_levelwalk/h5_joint_angles'
+    group = "WT_levelwalk"
+    directory = f'mouse-V3-analysis/data/kinematics-modeling-v1/{group}/h5'
     joints = ['ToeTip', 'Metatarsal', 'Ankle', 'Knee', 'Hip', 'IliacCrest']
     likelihood_cols = get_col_names(joints)
 
@@ -39,7 +40,8 @@ def main():
                         'ToeTip_x', 'ToeTip_y', 'ToeTip_likelihood']
         filtered = likelihood_df.loc[:, selected_col]
 
-        save_file(file, directory, filtered)
+        save_dir = f"autogait_trial/csv_files/{group}"
+        save_file(file, save_dir, filtered)
 
 if __name__ == '__main__':
     main()
