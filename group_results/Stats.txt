@@ -4,11 +4,11 @@
 
 *****  Results of Cluster-extent permutation test for Crest y  ****
 
-Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
+Contrast: WT_levelwalk & V3Off_Levelwalk - Significant clusters found at (in SC Percentage):
 
-0.0-50.0%, p values:
+41.67-100.0%, p values:
 
-Cluster p value = 0.0285
+Cluster p value = 0.0302
 
 **************************************************************************
 
@@ -18,7 +18,7 @@ Cluster p value = 0.0285
 
 *****  Results of Cluster-extent permutation test for Hip y  ****
 
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -28,7 +28,7 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of Cluster-extent permutation test for Knee y  ****
 
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -38,11 +38,11 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of Cluster-extent permutation test for Ankle y  ****
 
-Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
+Contrast: WT_levelwalk & V3Off_Levelwalk - Significant clusters found at (in SC Percentage):
 
-58.33-100.0%, p values:
+41.67-100.0%, p values:
 
-Cluster p value = 0.0277
+Cluster p value = 0.0295
 
 **************************************************************************
 
@@ -52,15 +52,7 @@ Cluster p value = 0.0277
 
 *****  Results of Cluster-extent permutation test for Metatarsal y  ****
 
-Contrast: WT & V3Off - Significant clusters found at (in SC Percentage):
-
-0.0-25.0%, p values:
-
-Cluster p value = 0.0289
-
-75.0-100.0%, p values:
-
-Cluster p value = 0.0289
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -70,7 +62,7 @@ Cluster p value = 0.0289
 
 *****  Results of Cluster-extent permutation test for ToeTip y  ****
 
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -80,7 +72,7 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of Cluster-extent permutation test for Ankle Angle  ****
 
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -90,7 +82,7 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of Cluster-extent permutation test for Knee Angle  ****
 
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -100,27 +92,7 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of Cluster-extent permutation test for Hip Angle  ****
 
-Contrast: WT & V3Off - No significant clusters!
-
-**************************************************************************
-
-
-
-**************************************************************************
-
-*****  Results of Cluster-extent permutation test for Metatarsal Velocity  ****
-
-Contrast: WT & V3Off - No significant clusters!
-
-**************************************************************************
-
-
-
-**************************************************************************
-
-*****  Results of Cluster-extent permutation test for Metatarsal Acceleration  ****
-
-Contrast: WT & V3Off - No significant clusters!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -130,7 +102,7 @@ Contrast: WT & V3Off - No significant clusters!
 
 *****  Results of non-significant ANOVA for Crest y  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - interaction effect not significant. Tukey's test was not performed!
 
 **************************************************************************
 
@@ -140,7 +112,7 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 *****  Results of non-significant ANOVA for Hip y  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - interaction effect not significant. Tukey's test was not performed!
 
 **************************************************************************
 
@@ -148,19 +120,9 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 **************************************************************************
 
-*****  Results of non-significant ANOVA for Knee y  ****
+*****  Results of Mixed ANOVA for Knee y  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
-
-**************************************************************************
-
-
-
-**************************************************************************
-
-*****  Results of non-significant ANOVA for Ankle y  ****
-
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - No significant clusters!
 
 **************************************************************************
 
@@ -168,9 +130,35 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 **************************************************************************
 
-*****  Results of non-significant ANOVA for Metatarsal y  ****
+*****  Results of Mixed ANOVA for Ankle y  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - Significant clusters found at (in SC Percentage):
+
+0.0-8.33%, p values:
+
+
+0.0% - p = 0.0291
+4.17% - p = 0.0071
+8.33% - p = 0.0123
+
+41.67-100.0%, p values:
+
+
+41.67% - p = 0.045
+45.83% - p = 0.0307
+50.0% - p = 0.0243
+54.17% - p = 0.0208
+58.33% - p = 0.0189
+62.5% - p = 0.018
+66.67% - p = 0.0184
+70.83% - p = 0.0197
+75.0% - p = 0.0219
+79.17% - p = 0.0253
+83.33% - p = 0.0304
+87.5% - p = 0.0361
+91.67% - p = 0.0403
+95.83% - p = 0.0439
+100.0% - p = 0.04
 
 **************************************************************************
 
@@ -178,9 +166,61 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 **************************************************************************
 
-*****  Results of non-significant ANOVA for ToeTip y  ****
+*****  Results of Mixed ANOVA for Metatarsal y  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - Significant clusters found at (in SC Percentage):
+
+0.0-8.33%, p values:
+
+
+0.0% - p = 0.0245
+4.17% - p = 0.0134
+8.33% - p = 0.0198
+
+41.67-100.0%, p values:
+
+
+41.67% - p = 0.04
+45.83% - p = 0.0326
+50.0% - p = 0.0287
+54.17% - p = 0.0276
+58.33% - p = 0.0271
+62.5% - p = 0.0272
+66.67% - p = 0.0279
+70.83% - p = 0.0295
+75.0% - p = 0.0315
+79.17% - p = 0.0338
+83.33% - p = 0.0373
+87.5% - p = 0.041
+91.67% - p = 0.042
+95.83% - p = 0.0407
+100.0% - p = 0.0336
+
+**************************************************************************
+
+
+
+**************************************************************************
+
+*****  Results of Mixed ANOVA for ToeTip y  ****
+
+Contrast: WT_levelwalk & V3Off_Levelwalk - Significant clusters found at (in SC Percentage):
+
+50.0-75.0%, p values:
+
+
+50.0% - p = 0.048
+54.17% - p = 0.0483
+58.33% - p = 0.0476
+62.5% - p = 0.0468
+66.67% - p = 0.0474
+70.83% - p = 0.0484
+75.0% - p = 0.0496
+
+100.0-100.0%, p values:
+
+
+100.0% - p = 0.0472
 
 **************************************************************************
 
@@ -190,7 +230,7 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 *****  Results of non-significant ANOVA for Ankle Angle  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - interaction effect not significant. Tukey's test was not performed!
 
 **************************************************************************
 
@@ -200,7 +240,7 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 *****  Results of non-significant ANOVA for Knee Angle  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - interaction effect not significant. Tukey's test was not performed!
 
 **************************************************************************
 
@@ -210,27 +250,7 @@ Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not 
 
 *****  Results of non-significant ANOVA for Hip Angle  ****
 
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
-
-**************************************************************************
-
-
-
-**************************************************************************
-
-*****  Results of non-significant ANOVA for Metatarsal Velocity  ****
-
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
-
-**************************************************************************
-
-
-
-**************************************************************************
-
-*****  Results of non-significant ANOVA for Metatarsal Acceleration  ****
-
-Contrast: WT & V3Off - interaction effect not significant. Tukey's test was not performed!
+Contrast: WT_levelwalk & V3Off_Levelwalk - interaction effect not significant. Tukey's test was not performed!
 
 **************************************************************************
 
